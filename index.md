@@ -1,3 +1,3 @@
 # Crackerマニュアル
 
-ユーザー操作マニュアル：[https://ddrks.github.io/cracker-system/manual/users](https://ddrks.github.io/cracker-system/manual/users)
+ユーザー操作マニュアル：[https://cracker-system.github.io/manual/users](https://cracker-system.github.io/manual/users)
